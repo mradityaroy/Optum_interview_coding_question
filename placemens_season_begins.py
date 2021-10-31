@@ -1,4 +1,4 @@
-n=int(input("enter n"))
+n=int(input())
 arr=list(map(int,input().split()))
 def funct(input1,input2):
     rank=[]
